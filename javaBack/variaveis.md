@@ -22,7 +22,7 @@ a let possui um escopo um pouco mais restrito, nao podendo reatribuir um valor a
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>como declarar uma let</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>como declarar uma let</p></figcaption></figure>
 
 </div>
 
