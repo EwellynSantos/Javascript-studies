@@ -9,4 +9,6 @@
 * [Concatenação](concatenacao.md)
 * [If e else](if-e-else.md)
 * [Types](types.md)
-* [Operações](operacoes.md)
+* [Operadores](operadores.md)
+* [Operadores de Comparação](operadores-de-comparacao.md)
+* [Funções](funcoes.md)

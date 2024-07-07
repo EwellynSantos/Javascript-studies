@@ -1,4 +1,4 @@
-# Operações
+# Operadores
 
 
 
@@ -32,3 +32,31 @@
 
 *  >  /  >  +  >  -
 ```
+
+
+
+
+
+### Operador ternário
+
+operador ternário é composto por uma variavel que possui uma condição.
+
+como por exemplo:
+
+```javascript
+// Some code
+
+const valor = 50;
+const texto = valor < 50 ? ‘valor insuficiente’ : ‘valor suficiente’; //<- operador ternário
+console.log(texto); // retorna ‘valor suficiente’
+
+//a sintax é:
+
+//condição ?      caso 'true'    :     caso 'false'
+valor < 50 ? 'valor insuficiente' : 'valor suficiente';
+
+```
+
+ou seja, se o valor for menor que 50 entao( ? ) retorna "valor insuficiente", se nao( : ) retorna "valor suficiente"
+
+O operador ternário é normalmente utilizado em substituição ao `if…else` em que as condições têm apenas uma linha de retorno.
