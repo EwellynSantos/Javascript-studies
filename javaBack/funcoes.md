@@ -33,8 +33,6 @@ console.log(resultado)
 
 
 
-
-
 ### Expressão de função
 
 quando fazemos a expressão de uma função, envolvemos ela numa const, ou seja, ao inver de o valor da const ser uma string, um int ou algo assim, na verdade ela é uma função.&#x20;
@@ -68,9 +66,7 @@ Quando o arquivo é lido pelo javascript, as funçoes declaradas e as variaveis 
 
 E quando declaramos uma expressão de função, não ocorre o hoisting com ela, então caso façamos uma chamada acima dela, retornará um erro, pois essa função não foi lida ainda.&#x20;
 
-Exemplos:\
-\
-
+Exemplos:
 
 <pre class="language-javascript"><code class="lang-javascript">//função
 
