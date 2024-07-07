@@ -91,3 +91,27 @@ const exemplo = function (parametro){
 
 </code></pre>
 
+
+
+
+
+### Arrow function
+
+
+
+as arrows functions também são uma expressão de uma função, ou seja, também não ocorre o hoisting com ela, mas ela é uma maneira mais moderna de declarar uma função.
+
+Quando tivermos menos código para essa função, podemos resumir ela, conforme abaixo.
+
+<pre class="language-javascript"><code class="lang-javascript">
+<strong>//modo normal
+</strong>const exibeNome1 = (nome) => {
+    return nome;
+};
+
+<strong>//modo resumido
+</strong>const exibeNome = (nome) => nome;
+
+</code></pre>
+
+o formato resumido também é muito utilizado para trabalharmos com funçoes dentro de funções, o que chamamos de callback functions.
