@@ -12,3 +12,4 @@
 * [Operadores](operadores.md)
 * [Operadores de Comparação](operadores-de-comparacao.md)
 * [Funções](funcoes.md)
+* [Arrays](arrays.md)
