@@ -13,3 +13,5 @@
 * [Operadores de Comparação](operadores-de-comparacao.md)
 * [Funções](funcoes.md)
 * [Arrays](arrays.md)
+* [Slice](slice.md)
+* [Splice](splice.md)
