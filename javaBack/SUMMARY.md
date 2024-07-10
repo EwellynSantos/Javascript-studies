@@ -18,3 +18,6 @@
 * [Concatenando arrays](concatenando-arrays.md)
 * [Array de duas dimensões](array-de-duas-dimensoes.md)
 * [Metodo includes(buscar em listas)](metodo-includes-buscar-em-listas.md)
+* [Desestrururando Arrays](desestrururando-arrays.md)
+* [Operadores de incremento](operadores-de-incremento.md)
+* [For](for.md)
