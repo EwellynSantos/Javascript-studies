@@ -15,3 +15,6 @@
 * [Arrays](arrays.md)
 * [Slice](slice.md)
 * [Splice](splice.md)
+* [Concatenando arrays](concatenando-arrays.md)
+* [Array de duas dimensões](array-de-duas-dimensoes.md)
+* [Metodo includes(buscar em listas)](metodo-includes-buscar-em-listas.md)
