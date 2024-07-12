@@ -21,4 +21,7 @@
 * [Desestrururando Arrays](desestrururando-arrays.md)
 * [Operadores de incremento](operadores-de-incremento.md)
 * [For](for.md)
-* [For of](for-of.md)
+* [For...of](for...of.md)
+* [ForEach](foreach.md)
+* [Map](map.md)
+* [Entrada](entrada.md)
