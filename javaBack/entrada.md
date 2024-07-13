@@ -17,3 +17,21 @@ console.log(`Você digitou: ${i}`);
 
 ```
 
+Outro modo de entrada sem instalar módulos é:
+
+```javascript
+// Some code
+
+const readline =  require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+rl.question("digite algo:", (result) =>{
+    console.log(result)
+    rl.close();
+})
+```
+
