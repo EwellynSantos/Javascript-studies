@@ -1,6 +1,6 @@
 # Map
 
-O map, assim como o forEach, é uma função de callback da qual podemos acessar os elementos dentro de um array, mas há um grande diferença entre eles, pois o map é um método que retorna, ou seja, os dados capturados são "levados" pra fora, eles são atribuidos para um novo array. Além disso, com o map podemos alterar os valores dos elementos do array inicial, ou seja, o no array conterá os novos elementos. Pra que voce entenda melhor, vou te mostrar a sintaxe:
+O map, assim como o forEach, é uma função de callback da qual podemos acessar os elementos dentro de um array, mas há um grande diferença entre eles, pois o map é um método que retorna, ou seja, os dados capturados são "levados" pra fora, eles são atribuidos para um novo array. Além disso, com o map podemos alterar qualquer valores dos elementos do array inicial, ou seja, o no array conterá os novos elementos. Pra que voce entenda melhor, vou te mostrar a sintaxe:
 
 ```javascript
 const novoArray = array.map(function (parametro){
@@ -27,4 +27,20 @@ const notasAtualizadas = notas.map(function (nota){
 console.log(notasAtualizadas);
 
 //resultado: [ 11, 10, 8, 7 ]
+
 ```
+
+
+
+Um outro exemplo:
+
+```javascript
+const nomes = ['ana julia', 'caio vinicios', 'Bia silva'];
+
+const nomesPadronizados = nomes.map((nome) => nome.toUpperCase());
+
+console.log(nomesPadronizados)
+
+//Resultado: [ 'ANA JULIA', 'CAIO VINICIOS', 'BIA SILVA' ]
+```
+

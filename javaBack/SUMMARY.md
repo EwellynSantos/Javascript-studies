@@ -25,3 +25,7 @@
 * [ForEach](foreach.md)
 * [Map](map.md)
 * [Entrada](entrada.md)
+* [Método filter](metodo-filter.md)
+* [Método reduce](metodo-reduce.md)
+* [clonando arrays: Spred Operator](clonando-arrays-spred-operator.md)
+* [Remover duplicatas com o Set](remover-duplicatas-com-o-set.md)
