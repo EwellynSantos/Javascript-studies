@@ -29,3 +29,4 @@
 * [Método reduce](metodo-reduce.md)
 * [clonando arrays: Spred Operator](clonando-arrays-spred-operator.md)
 * [Remover duplicatas com o Set](remover-duplicatas-com-o-set.md)
+* [Objetos](objetos.md)
