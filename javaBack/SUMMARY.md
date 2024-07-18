@@ -41,3 +41,7 @@
 * [Tipos de dados em Objetos](objetos/tipos-de-dados-em-objetos.md)
 * [Lista de Objetos](objetos/lista-de-objetos.md)
 * [Funções em Objetos](objetos/funcoes-em-objetos.md)
+
+***
+
+* [For...in](for...in.md)
