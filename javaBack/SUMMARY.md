@@ -43,7 +43,9 @@
 * [Funções em Objetos](objetos/funcoes-em-objetos.md)
 * [For...in](objetos/for...in.md)
 * [Métodos de objeto](objetos/metodos-de-objeto.md)
+* [Operador de espalhamento Spred](objetos/operador-de-espalhamento-spred.md)
 
 ***
 
-* [Operador de espalahamento Spred](operador-de-espalahamento-spred.md)
+* [JSON](json.md)
+* [Operações com JSON](operacoes-com-json.md)
