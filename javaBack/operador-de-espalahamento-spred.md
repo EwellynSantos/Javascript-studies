@@ -53,7 +53,7 @@ De cara, é o mesmo resultado, mas a maneira como deixamos de modo mais automát
 
 #### <mark style="color:yellow;">Usando o espalhamento</mark>
 
-aqui utilizamos o mesmo código acima, mas dessa vez estamos realizando o espalhamento de dados:
+aqui utilizamos o mesmo código acima, mas dessa vez estamos realizando o espalhamento de dados, neste caso nao estamos juntando objetos diferentes, mas há a possibilidade:
 
 <mark style="color:red;">**Uma maneira menos prática seria:**</mark>
 
