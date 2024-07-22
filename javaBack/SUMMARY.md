@@ -50,7 +50,8 @@
 * [Introdução ao JSON](json/introducao-ao-json.md)
 * [Operações com JSON](json/operacoes-com-json.md)
 * [Encontrando um Objeto(includes/find)](json/encontrando-um-objeto-includes-find.md)
+* [Ordenando um array de objetos](json/ordenando-um-array-de-objetos.md)
 
 ***
 
-* [Ordenando um array de objetos](ordenando-um-array-de-objetos.md)
+* [Filtrando objetos(filter)](filtrando-objetos-filter.md)
