@@ -2,11 +2,11 @@
 description: Java Script Object Notation
 ---
 
-# JSON
+# Introdução ao JSON
 
 Uma notação de objeto javascript usa como base o objeto do javascript, mas possui algumas diferenças de estrutura.&#x20;
 
-<figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Diferenças
 

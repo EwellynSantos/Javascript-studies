@@ -45,7 +45,12 @@
 * [Métodos de objeto](objetos/metodos-de-objeto.md)
 * [Operador de espalhamento Spred](objetos/operador-de-espalhamento-spred.md)
 
+## JSON
+
+* [Introdução ao JSON](json/introducao-ao-json.md)
+* [Operações com JSON](json/operacoes-com-json.md)
+* [Encontrando um Objeto(includes/find)](json/encontrando-um-objeto-includes-find.md)
+
 ***
 
-* [JSON](json.md)
-* [Operações com JSON](operacoes-com-json.md)
+* [Ordenando um array de objetos](ordenando-um-array-de-objetos.md)
