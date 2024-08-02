@@ -57,3 +57,7 @@
 
 * [Utilizando o process.argv](js-com-node.js/utilizando-o-process.argv.md)
 * [Acessando conteudo de arquivos(File System)](js-com-node.js/acessando-conteudo-de-arquivos-file-system.md)
+
+***
+
+* [Capturando palavras em um arquivo de string](capturando-palavras-em-um-arquivo-de-string.md)
