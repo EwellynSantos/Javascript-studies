@@ -61,3 +61,5 @@
 ***
 
 * [Capturando palavras em um arquivo de string](capturando-palavras-em-um-arquivo-de-string.md)
+* [Caracteres de Escape](caracteres-de-escape.md)
+* [Tratamento de Erro](tratamento-de-erro.md)
