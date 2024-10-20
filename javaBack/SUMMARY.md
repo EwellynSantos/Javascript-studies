@@ -8,11 +8,14 @@
 * [Type: number](type-number.md)
 * [Concatenação](concatenacao.md)
 * [If e else](if-e-else.md)
+* [Switch ...case](switch-...case.md)
 * [Types](types.md)
 * [Operadores](operadores.md)
 * [Operadores de Comparação](operadores-de-comparacao.md)
 * [Funções](funcoes.md)
 * [Entrada](entrada.md)
+* [Método toFixed](metodo-tofixed.md)
+* [Método split](metodo-split.md)
 * [Operadores de incremento](operadores-de-incremento.md)
 
 ## Arrays
