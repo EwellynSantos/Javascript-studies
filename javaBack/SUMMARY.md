@@ -9,6 +9,7 @@
 * [Concatenação](concatenacao.md)
 * [If e else](if-e-else.md)
 * [Switch ...case](switch-...case.md)
+* [While](while.md)
 * [Types](types.md)
 * [Operadores](operadores.md)
 * [Operadores de Comparação](operadores-de-comparacao.md)
