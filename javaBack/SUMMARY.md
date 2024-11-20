@@ -9,6 +9,7 @@
 * [Concatenação](concatenacao.md)
 * [If e else](if-e-else.md)
 * [Switch ...case](switch-...case.md)
+* [Condiçoes](condicoes.md)
 * [While](while.md)
 * [Types](types.md)
 * [Operadores](operadores.md)
@@ -17,6 +18,7 @@
 * [Entrada](entrada.md)
 * [Método toFixed](metodo-tofixed.md)
 * [Método split](metodo-split.md)
+* [Método repaet e trim](metodo-repaet-e-trim.md)
 * [Operadores de incremento](operadores-de-incremento.md)
 
 ## Arrays

@@ -22,7 +22,7 @@ a let possui um escopo um pouco mais restrito, nao podendo reatribuir um valor a
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>como declarar uma let</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>como declarar uma let</p></figcaption></figure>
 
 </div>
 
@@ -34,7 +34,7 @@ usado para definir uma variavel constante, ou seja, ela não pode ser alterada.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>neste caso estamos tentando reatribuir um valor para a variavel estudante, mas como ela é constante, não é possivel alterar, entao retornará um erro.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>neste caso estamos tentando reatribuir um valor para a variavel estudante, mas como ela é constante, não é possivel alterar, entao retornará um erro.</p></figcaption></figure>
 
 </div>
 
