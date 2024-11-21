@@ -1,6 +1,32 @@
 # Método reduce
 
-O reduce é uma função que  reduz todos os elementos de um array  a um elemento só.  O reduce também é um método callback, entao ele retorna uma function.&#x20;
+O reduce é uma função que  reduz todos os elementos de um array  a um único valor.  O reduce também é um método callback, entao ele retorna uma function.&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Veja um exemplo fácil:
+
+```javascript
+//a questão aqui é que o acumulador é onde estaremos armazenando os 
+//valores temporáriamente, e o atual é o elemento do momento(o atual passa em cada 
+//elemento como um for), e então adicionamos o elemento atual ao acumulador
+//
+
+const numeros = [1, 2, 3, 4, 5]
+
+const soma = numeros.reduce((acumulador, atual) => {
+    const total = acumulador + atual;
+    
+    return total
+}, 10)//aqui definimos um valor inicial ao acumulador, entao ele começa assim: 10 + atual
+        //se nao definir valor, ele inicia como zero
+
+console.log(soma) //resultado: 15
+```
 
 Segue abaixo um exemplo:
 
@@ -59,4 +85,5 @@ console.log(calcMedia(salaJava));
 console.log(calcMedia(slaPython));
 ```
 
-Dessa maneira fica melhor de visualizar o reduce, pois definimos tudo em uma linha só.
+Dessa maneira fica melhor de visualizar o reduce, pois definimos tudo em uma linha só.\
+\
