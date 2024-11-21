@@ -71,3 +71,5 @@ resultado:
 [1, 2, 3] // e imprimiu o arratCompleto nas 3 vezes
 [1, 2, 3]
 ```
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
