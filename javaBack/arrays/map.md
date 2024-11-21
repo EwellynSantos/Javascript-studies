@@ -70,6 +70,9 @@ resultado:
 [1, 2, 3] //retorna 3 arrays porque ele passou 3 vezes(quantidade de elemetos)
 [1, 2, 3] // e imprimiu o arratCompleto nas 3 vezes
 [1, 2, 3]
+
 ```
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
