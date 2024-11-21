@@ -44,3 +44,30 @@ console.log(nomesPadronizados)
 //Resultado: [ 'ANA JULIA', 'CAIO VINICIOS', 'BIA SILVA' ]
 ```
 
+Além disso, o map recebe tres informações, os elementos, os index e o array completo. Veja como é:
+
+```javascript
+const numero = [1, 2, 3];
+
+const novoArray = numeros.map((elemento, index, arrayCompleto) => {
+    console.log(elemento)
+    console.log(index)
+    console.log(arrayCompleto)
+})
+
+resultado:
+//1
+1
+2
+3
+
+//2
+0
+1
+2
+
+//3
+[1, 2, 3] //retorna 3 arrays porque ele passou 3 vezes(quantidade de elemetos)
+[1, 2, 3] // e imprimiu o arratCompleto nas 3 vezes
+[1, 2, 3]
+```
